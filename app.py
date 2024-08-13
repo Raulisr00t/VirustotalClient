@@ -9,7 +9,7 @@ from PyQt5.QtCore import Qt
 import json
 
 # Set up your VirusTotal API key
-API_KEY = 'YPUR-API-KEY'
+API_KEY = 'YOUR-API-KEY'
 
 # VirusTotal API endpoints
 IP_ENDPOINT = 'https://www.virustotal.com/api/v3/ip_addresses/{}'
